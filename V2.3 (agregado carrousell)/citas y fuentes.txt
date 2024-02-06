@@ -1,0 +1,15 @@
+Favicon
+
+https://www.iconpacks.net/free-icon/book-4986.html
+
+home Logo
+
+https://www.freepik.com/vectors/coffee-book
+
+Issues:
+
+Tamaño de fotografías: cómo dar el tamaño en pixels necesarios para que quede bien la proporcion
+
+Grid: Es necesario hacier una gran clase grid para poder abarcar todo?
+
+agregar JS!
